@@ -1,0 +1,23 @@
+{
+  "name": "@vasu/html-setup",
+  "version": "1.0.0",
+  "description": "This is Html, Css & Js Website Setup Code",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasubhalodiya/HTML-Setup.git"
+  },
+  "keywords": [
+    "html",
+    "setup"
+  ],
+  "author": "Vasu Bhalodiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasubhalodiya/HTML-Setup/issues"
+  },
+  "homepage": "https://github.com/vasubhalodiya/HTML-Setup#readme"
+}
