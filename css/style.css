@@ -226,6 +226,52 @@
     src: url(../css/fonts/);
 }
 
+/* *********************************** */
+
+/* Inter */
+
+@font-face {
+    font-family: 'Int-Bold';
+    src: url(../css/fonts/Inter/Inter-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Int-ExtraBold';
+    src: url(../css/fonts/Inter/Inter-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Int-ExtraLight';
+    src: url(../css/fonts/Inter/Inter-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: 'Int-Light';
+    src: url(../css/fonts/Inter/Inter-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Int-Medium';
+    src: url(../css/fonts/Inter/Inter-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Int-Regular';
+    src: url(../css/fonts/Inter/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Int-SemiBold';
+    src: url(../css/fonts/Inter/Inter-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Int-Thin';
+    src: url(../css/fonts/Inter/Inter-Thin.ttf);
+}
+
+/* ************************* */
+
 /* ************* */
 
 img{max-width:100%;}
